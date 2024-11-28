@@ -21,6 +21,9 @@ dependencies:
   # UI
   shimmer: ^3.0.0
 
+  # chaquopy
+  chaquopy: ^0.0.20
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
